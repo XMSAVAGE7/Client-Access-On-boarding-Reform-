@@ -55,4 +55,4 @@ client-access-onboarding-reform/
 ## Author
 Loan Cao – Business Analyst | Process Improvement Specialist | AI Strategist-in-Transition
 
-> For more information or collaboration inquiries, please connect with me on LinkedIn: Linkedin.com/loanhcao/
+> For more information or collaboration inquiries, please connect with me on LinkedIn: Linkedin.com/in/loanhcao/
